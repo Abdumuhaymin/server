@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "email": "uzbfamily57@gmail.com",
+      "password": "$2a$10$U821nTfitYPENwchd3nwTOfk70HgOaW7LZ0svllR8Hs7hAa1/hTie",
+      "firstname": "Abdumuhaymin",
+      "secondname": "Abdurahmonov",
+      "age": 18,
+      "id": 1
+    }
+  ],
+  "messages": [
+    {
+      "name": "Product1",
+      "id": 1
+    },
+    {
+      "schema": "hello",
+      "id": 2
+    }
+  ]
+}
